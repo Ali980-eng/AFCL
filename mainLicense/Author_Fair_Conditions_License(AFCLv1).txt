@@ -80,7 +80,7 @@ Developer or Author Requirements: Copyright (c) <year> <copyright holders>
     - they clearly specify permitted and prohibited actions.
     - they do not invalidate the principles established by this license.
 
-## Third-Party Legal Immunity & Limitation of Liability
+Third-Party Legal Immunity & Limitation of Liability
 
     The License Author (Ali Lafi) provides this licensing framework solely as an objective tool to facilitate clear and fair licensing between developers and users.
     The License Author operates strictly as an independent third party and does not provide formal legal advice or representation. 
