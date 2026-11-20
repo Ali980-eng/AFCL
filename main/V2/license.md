@@ -1,0 +1,118 @@
+# Author Fair Conditions License (AFCL)
+
+## Notice on Ownership & Identity Separation
+
+    This license framework (AFCL) is created and owned by the License Author (Ali Lafi).
+    The "License Author" is inherently distinct from the "Project/Work Author" (the developer applying this license to their software). 
+
+    The Project Author must explicitly state their identity and copyright notice only within the designated "Developer or Author Requirements" section below.
+    Removing, altering, obscuring, or omitting the name of the License Author (Ali Lafi) or the core text of this framework from any part of this document is strictly prohibited.
+
+**license author:** Ali Lafi (acting under the pseudonym "Ken Roth")
+
+**license version:** v1
+
+**creation data:** 2026 / 11 / 20
+
+## License Requirements
+
+This license establishes a framework allowing authors or developers to define their own conditions of use while preserving clarity, fairness, and objective interpretation.
+
+All provisions written under this license must follow the requirements below.
+
+1. Clarity Requirement
+
+    All conditions must be written in clear, measurable, and objectively interpretable language.
+
+    The language used must avoid ambiguous or subjective expressions that cannot be reasonably measured or interpreted.
+
+    Examples of unclear expressions include:
+
+    * "a little of"
+    * "a lot of"
+    * "large amount"
+    * "small percentage"
+    * other similarly vague terms
+
+2. Measurable Conditions Requirement
+
+    When a developer or author wishes to restrict usage or define prohibited actions, measurable criteria should be used whenever possible.
+
+    Examples of measurable criteria include:
+
+    * numerical percentages
+    * line counts
+    * file counts
+    * data size
+    * execution behavior
+    * other objectively measurable units
+
+    Restrictions must not rely on undefined measurements.
+
+3. Interpretation Rule
+    Where a developer-defined provision is ambiguous or can reasonably be interpreted in more than one way, the interpretation that imposes the least restriction on the user and grants them the maximum permitted relief shall apply.
+
+4. Unclear Provision Rule
+    Any provision that cannot be interpreted in a clear and objective manner shall be deemed null and void, and cannot be used by the author as a basis for legal action or enforcement against the user.
+    The invalidity of such an unclear provision affects only that specific clause and does not invalidate the remaining valid provisions of this license.
+
+5. License Supremacy Rule
+
+    The requirements defined by this license apply to all conditions created by the developer or author.
+
+    Developer-defined conditions cannot override, remove, invalidate, or contradict the core requirements of this license.
+
+6. License Invalidity Rule
+
+    If a developer or author intentionally creates conditions intended to nullify, bypass, remove, or contradict the core requirements of this license, the custom conditions shall be considered invalid.
+
+    If the custom conditions fundamentally attempt to remove the framework established by this license itself, the use of this license shall be considered illegitimate.
+
+7. Contracting Conditions Requirements.
+
+    This section defines the terms of engagement for all participating parties, including contributors, investors, employees, and affiliated companies (hereinafter referred to as "Contractors").
+
+    1. Acknowledgment and Proof of Agreement.
+        All Contractors must explicitly acknowledge and agree to these Contracting Conditions.
+        Verifiable proof of agreement (such as a digital signature, cryptographic commit sign-off, or formal written consent) is strictly required.
+
+    2. Open Negotiation and Prior Agreements.
+        In the event of a disagreement, negotiations shall remain open.
+        If the Contractor acts as a financial funder or an employee, any prior legally binding agreements or conditions established outside the scope of this specific license or contract shall take precedence and be fully considered in the current context.
+
+    3. Pre-existing Contributions and Retained Ownership.
+        If a participating Contractor submits a contribution prior to formally agreeing to this contract or license, or if they can demonstrably prove they lacked full awareness of these conditions at the time of submission, they retain full ownership of their specific contribution.
+        The Contractor retains the right to use, modify, and publish their contribution independently, provided that the contribution consists entirely of their own original intellectual property.
+
+    4. Intellectual Property Intersection and Dependency.
+        If the scenario in Condition 3 applies, and the Contractor's owned contribution intersects with, integrates into, or technically depends upon other intellectual property subject to distinct licensing conditions, the Contractor shall not distribute or exploit the integrated work without prior consent.
+        The Contractor must first negotiate and reach a formal agreement regarding the permissible use and licensing terms of the dependent intellectual property.
+
+    5. Right to Waive Conditions.
+        Contractors retain the right to waive the imposition of additional restrictive conditions upon other Contractors, provided that the overarching project remains classified as open-source under this framework.
+        This right to waive conditions is also automatically applicable in scenarios where there is only a single Contractor who holds sole ownership of the project.
+
+## Developer or Author Requirements
+
+License Name:
+License Type:
+hash number: 6598658431403035814
+
+Copyright (c) `year` `copyright holders`
+
+    conditions
+
+The developer or author may define their own additional conditions, permissions, restrictions, or requirements provided that:
+
+* they comply with all requirements of this license
+* they remain objectively interpretable
+* they clearly specify permitted and prohibited actions
+* they do not invalidate the principles established by this license
+
+## Third-Party Legal Immunity & Limitation of Liability
+
+The License Author (Ali Lafi) provides this licensing framework solely as an objective tool to facilitate clear and fair licensing between developers and users.
+The License Author operates strictly as an independent third party and does not provide formal legal advice or representation.
+
+Under no circumstances shall the License Author be held liable, responsible, summoned, or subpoenaed in any legal actions, disputes, claims, or court proceedings arising from the use, misuse, implementation, interpretation, or enforcement of this license by any developer or user.
+This framework is provided "as-is" without any warranties, and all liabilities remain exclusively with the practicing parties.
